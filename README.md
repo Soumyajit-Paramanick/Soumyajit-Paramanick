@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%2C%20I%27m%20Soumyajit%20Paramanick🚀&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=135&section=header&text=Hi%2C%20I%27m%20Soumyajit%20Paramanick🚀&fontSize=50)
 
 <h1 align="center">Welcome to my GitHub Profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
